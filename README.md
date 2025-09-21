@@ -35,6 +35,6 @@ It combines **time-series analysis, KPI metrics, AI forecasting (Prophet), and r
 ---
 
 ## 📂 Project Structure
-├── app.py # Main Streamlit application code
-├── Power_Consumption_2019_2020.csv # Dataset
-├── requirements.txt # Python dependencies
+-app.py # Main Streamlit application code
+-Power_Consumption_2019_2020.csv # Dataset
+-requirements.txt # Python dependencies
